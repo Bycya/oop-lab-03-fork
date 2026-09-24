@@ -1,0 +1,20 @@
+look | смотреть
+look forward | ожидать
+hello | привет
+good morning | доброе утро
+car | автомобиль
+dog | собака
+cat | кошка
+house | дом
+window | окно
+book | книга
+sun | солнце
+water | вода
+friend | друг
+school | школа
+city | город
+road | дорога
+tree | дерево
+flower | цветок
+table | стол
+computer | компьютер
